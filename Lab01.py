@@ -35,6 +35,8 @@ class LinkedList:
 LL1 = LinkedList()
 LL1.insert_at_head(100)
 LL1.insert_at_end(200)
+LL1.insert_at_head(300)
+LL1.insert_at_head(150)
 LL1.insert_at_end(450)
 LL1.insert_at_head(300)
 LL1.insert_at_end(500)
