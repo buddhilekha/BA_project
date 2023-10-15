@@ -33,6 +33,7 @@ hash_table.insert(206095, "Sasanga")
 hash_table.insert(206098, "Madhushani")
 hash_table.insert(206064, "Rashmi")
 hash_table.insert(206100, "Dasuni")
+hash_table.insert(206005, "Hirushi")
 
 #Activity 06
 print(hash_table.search(206037))
